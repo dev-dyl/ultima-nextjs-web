@@ -7,9 +7,7 @@ export default function Home() {
         <iframe 
           src="https://discord.com/widget?id=1342452098528448653&theme=dark" 
           width="350" 
-          height="500" 
-          allowTransparency=true 
-          frameBorder="0" 
+          height="500"
           sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
         </iframe>
       </main>
